@@ -1,0 +1,8 @@
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\FactorialExample\FactorialExample\bin\Debug\FactorialExample.exe.config
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\FactorialExample\FactorialExample\bin\Debug\FactorialExample.exe
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\FactorialExample\FactorialExample\bin\Debug\FactorialExample.pdb
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\FactorialExample\FactorialExample\obj\Debug\FactorialExample.csproj.AssemblyReference.cache
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\FactorialExample\FactorialExample\obj\Debug\FactorialExample.csproj.SuggestedBindingRedirects.cache
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\FactorialExample\FactorialExample\obj\Debug\FactorialExample.csproj.CoreCompileInputs.cache
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\FactorialExample\FactorialExample\obj\Debug\FactorialExample.exe
+D:\ISDB_BISEW\ISDB_C#_CLASSES\Problem Solving C#\FactorialExample\FactorialExample\obj\Debug\FactorialExample.pdb
